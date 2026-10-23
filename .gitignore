@@ -1,0 +1,28 @@
+# Credentials and environments
+.env
+.env.*
+!.env.example
+.venv/
+.index-venv/
+venv/
+__pycache__/
+*.py[cod]
+.ultralytics/
+cache/
+logs/
+
+# Runtime assets are distributed in the private release bundle.
+/models/
+/data/
+/runs/
+/knowledge/source/
+/knowledge/input/
+/knowledge/output/
+/knowledge/demo_artifacts/
+/evaluation/demo_runs/
+*.zip
+*.log
+.DS_Store
+Thumbs.db
+~$*
+*.tmp

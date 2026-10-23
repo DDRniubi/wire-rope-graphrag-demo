@@ -1,0 +1,10 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.ps1 text eol=crlf
+*.yaml text eol=lf
+*.json text eol=lf
+*.docx binary
+*.pdf binary
+*.pt binary
+*.parquet binary

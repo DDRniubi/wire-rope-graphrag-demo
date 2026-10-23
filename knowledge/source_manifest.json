@@ -1,0 +1,1400 @@
+{
+  "document_title": "Wire Rope for Civil Works Structures (EM 1110-2-3200, 2016)",
+  "publisher": "U.S. Army Corps of Engineers",
+  "source_url": "https://www.publications.usace.army.mil/Portals/76/Publications/EngineerManuals/EM_1110-2-3200.pdf",
+  "pdf_file": "EM_1110-2-3200.pdf",
+  "pdf_sha256": "0fc3c621a60bc402ca34780b46f6d529fc2bba88c075e725d9997389f12b44d2",
+  "pages": 238,
+  "indexed_pages": 199,
+  "extraction": [
+    {
+      "pdf_page": 1,
+      "characters": 141,
+      "indexed": false
+    },
+    {
+      "pdf_page": 2,
+      "characters": 61,
+      "indexed": false
+    },
+    {
+      "pdf_page": 3,
+      "characters": 0,
+      "indexed": false
+    },
+    {
+      "pdf_page": 4,
+      "characters": 65,
+      "indexed": false
+    },
+    {
+      "pdf_page": 5,
+      "characters": 3283,
+      "indexed": true,
+      "file": "usace_wire_rope_page_005.txt"
+    },
+    {
+      "pdf_page": 6,
+      "characters": 4457,
+      "indexed": true,
+      "file": "usace_wire_rope_page_006.txt"
+    },
+    {
+      "pdf_page": 7,
+      "characters": 2964,
+      "indexed": true,
+      "file": "usace_wire_rope_page_007.txt"
+    },
+    {
+      "pdf_page": 8,
+      "characters": 2676,
+      "indexed": true,
+      "file": "usace_wire_rope_page_008.txt"
+    },
+    {
+      "pdf_page": 9,
+      "characters": 2262,
+      "indexed": true,
+      "file": "usace_wire_rope_page_009.txt"
+    },
+    {
+      "pdf_page": 10,
+      "characters": 2444,
+      "indexed": true,
+      "file": "usace_wire_rope_page_010.txt"
+    },
+    {
+      "pdf_page": 11,
+      "characters": 2314,
+      "indexed": true,
+      "file": "usace_wire_rope_page_011.txt"
+    },
+    {
+      "pdf_page": 12,
+      "characters": 68,
+      "indexed": false
+    },
+    {
+      "pdf_page": 13,
+      "characters": 2543,
+      "indexed": true,
+      "file": "usace_wire_rope_page_013.txt"
+    },
+    {
+      "pdf_page": 14,
+      "characters": 1852,
+      "indexed": true,
+      "file": "usace_wire_rope_page_014.txt"
+    },
+    {
+      "pdf_page": 15,
+      "characters": 1974,
+      "indexed": true,
+      "file": "usace_wire_rope_page_015.txt"
+    },
+    {
+      "pdf_page": 16,
+      "characters": 1593,
+      "indexed": true,
+      "file": "usace_wire_rope_page_016.txt"
+    },
+    {
+      "pdf_page": 17,
+      "characters": 3345,
+      "indexed": true,
+      "file": "usace_wire_rope_page_017.txt"
+    },
+    {
+      "pdf_page": 18,
+      "characters": 2804,
+      "indexed": true,
+      "file": "usace_wire_rope_page_018.txt"
+    },
+    {
+      "pdf_page": 19,
+      "characters": 2884,
+      "indexed": true,
+      "file": "usace_wire_rope_page_019.txt"
+    },
+    {
+      "pdf_page": 20,
+      "characters": 394,
+      "indexed": true,
+      "file": "usace_wire_rope_page_020.txt"
+    },
+    {
+      "pdf_page": 21,
+      "characters": 1556,
+      "indexed": true,
+      "file": "usace_wire_rope_page_021.txt"
+    },
+    {
+      "pdf_page": 22,
+      "characters": 3985,
+      "indexed": true,
+      "file": "usace_wire_rope_page_022.txt"
+    },
+    {
+      "pdf_page": 23,
+      "characters": 3161,
+      "indexed": true,
+      "file": "usace_wire_rope_page_023.txt"
+    },
+    {
+      "pdf_page": 24,
+      "characters": 2455,
+      "indexed": true,
+      "file": "usace_wire_rope_page_024.txt"
+    },
+    {
+      "pdf_page": 25,
+      "characters": 2028,
+      "indexed": true,
+      "file": "usace_wire_rope_page_025.txt"
+    },
+    {
+      "pdf_page": 26,
+      "characters": 3662,
+      "indexed": true,
+      "file": "usace_wire_rope_page_026.txt"
+    },
+    {
+      "pdf_page": 27,
+      "characters": 4007,
+      "indexed": true,
+      "file": "usace_wire_rope_page_027.txt"
+    },
+    {
+      "pdf_page": 28,
+      "characters": 1358,
+      "indexed": true,
+      "file": "usace_wire_rope_page_028.txt"
+    },
+    {
+      "pdf_page": 29,
+      "characters": 2759,
+      "indexed": true,
+      "file": "usace_wire_rope_page_029.txt"
+    },
+    {
+      "pdf_page": 30,
+      "characters": 149,
+      "indexed": false
+    },
+    {
+      "pdf_page": 31,
+      "characters": 164,
+      "indexed": false
+    },
+    {
+      "pdf_page": 32,
+      "characters": 3499,
+      "indexed": true,
+      "file": "usace_wire_rope_page_032.txt"
+    },
+    {
+      "pdf_page": 33,
+      "characters": 155,
+      "indexed": false
+    },
+    {
+      "pdf_page": 34,
+      "characters": 134,
+      "indexed": false
+    },
+    {
+      "pdf_page": 35,
+      "characters": 2300,
+      "indexed": true,
+      "file": "usace_wire_rope_page_035.txt"
+    },
+    {
+      "pdf_page": 36,
+      "characters": 1980,
+      "indexed": true,
+      "file": "usace_wire_rope_page_036.txt"
+    },
+    {
+      "pdf_page": 37,
+      "characters": 235,
+      "indexed": true,
+      "file": "usace_wire_rope_page_037.txt"
+    },
+    {
+      "pdf_page": 38,
+      "characters": 3736,
+      "indexed": true,
+      "file": "usace_wire_rope_page_038.txt"
+    },
+    {
+      "pdf_page": 39,
+      "characters": 212,
+      "indexed": true,
+      "file": "usace_wire_rope_page_039.txt"
+    },
+    {
+      "pdf_page": 40,
+      "characters": 1583,
+      "indexed": true,
+      "file": "usace_wire_rope_page_040.txt"
+    },
+    {
+      "pdf_page": 41,
+      "characters": 1055,
+      "indexed": true,
+      "file": "usace_wire_rope_page_041.txt"
+    },
+    {
+      "pdf_page": 42,
+      "characters": 149,
+      "indexed": false
+    },
+    {
+      "pdf_page": 43,
+      "characters": 1664,
+      "indexed": true,
+      "file": "usace_wire_rope_page_043.txt"
+    },
+    {
+      "pdf_page": 44,
+      "characters": 162,
+      "indexed": false
+    },
+    {
+      "pdf_page": 45,
+      "characters": 2283,
+      "indexed": true,
+      "file": "usace_wire_rope_page_045.txt"
+    },
+    {
+      "pdf_page": 46,
+      "characters": 1279,
+      "indexed": true,
+      "file": "usace_wire_rope_page_046.txt"
+    },
+    {
+      "pdf_page": 47,
+      "characters": 187,
+      "indexed": false
+    },
+    {
+      "pdf_page": 48,
+      "characters": 1096,
+      "indexed": true,
+      "file": "usace_wire_rope_page_048.txt"
+    },
+    {
+      "pdf_page": 49,
+      "characters": 163,
+      "indexed": false
+    },
+    {
+      "pdf_page": 50,
+      "characters": 721,
+      "indexed": true,
+      "file": "usace_wire_rope_page_050.txt"
+    },
+    {
+      "pdf_page": 51,
+      "characters": 909,
+      "indexed": true,
+      "file": "usace_wire_rope_page_051.txt"
+    },
+    {
+      "pdf_page": 52,
+      "characters": 150,
+      "indexed": false
+    },
+    {
+      "pdf_page": 53,
+      "characters": 2066,
+      "indexed": true,
+      "file": "usace_wire_rope_page_053.txt"
+    },
+    {
+      "pdf_page": 54,
+      "characters": 875,
+      "indexed": true,
+      "file": "usace_wire_rope_page_054.txt"
+    },
+    {
+      "pdf_page": 55,
+      "characters": 78,
+      "indexed": false
+    },
+    {
+      "pdf_page": 56,
+      "characters": 425,
+      "indexed": true,
+      "file": "usace_wire_rope_page_056.txt"
+    },
+    {
+      "pdf_page": 57,
+      "characters": 82,
+      "indexed": false
+    },
+    {
+      "pdf_page": 58,
+      "characters": 1071,
+      "indexed": true,
+      "file": "usace_wire_rope_page_058.txt"
+    },
+    {
+      "pdf_page": 59,
+      "characters": 712,
+      "indexed": true,
+      "file": "usace_wire_rope_page_059.txt"
+    },
+    {
+      "pdf_page": 60,
+      "characters": 1080,
+      "indexed": true,
+      "file": "usace_wire_rope_page_060.txt"
+    },
+    {
+      "pdf_page": 61,
+      "characters": 1265,
+      "indexed": true,
+      "file": "usace_wire_rope_page_061.txt"
+    },
+    {
+      "pdf_page": 62,
+      "characters": 1269,
+      "indexed": true,
+      "file": "usace_wire_rope_page_062.txt"
+    },
+    {
+      "pdf_page": 63,
+      "characters": 378,
+      "indexed": true,
+      "file": "usace_wire_rope_page_063.txt"
+    },
+    {
+      "pdf_page": 64,
+      "characters": 102,
+      "indexed": false
+    },
+    {
+      "pdf_page": 65,
+      "characters": 582,
+      "indexed": true,
+      "file": "usace_wire_rope_page_065.txt"
+    },
+    {
+      "pdf_page": 66,
+      "characters": 71,
+      "indexed": false
+    },
+    {
+      "pdf_page": 67,
+      "characters": 3497,
+      "indexed": true,
+      "file": "usace_wire_rope_page_067.txt"
+    },
+    {
+      "pdf_page": 68,
+      "characters": 2034,
+      "indexed": true,
+      "file": "usace_wire_rope_page_068.txt"
+    },
+    {
+      "pdf_page": 69,
+      "characters": 2930,
+      "indexed": true,
+      "file": "usace_wire_rope_page_069.txt"
+    },
+    {
+      "pdf_page": 70,
+      "characters": 995,
+      "indexed": true,
+      "file": "usace_wire_rope_page_070.txt"
+    },
+    {
+      "pdf_page": 71,
+      "characters": 1127,
+      "indexed": true,
+      "file": "usace_wire_rope_page_071.txt"
+    },
+    {
+      "pdf_page": 72,
+      "characters": 1194,
+      "indexed": true,
+      "file": "usace_wire_rope_page_072.txt"
+    },
+    {
+      "pdf_page": 73,
+      "characters": 2155,
+      "indexed": true,
+      "file": "usace_wire_rope_page_073.txt"
+    },
+    {
+      "pdf_page": 74,
+      "characters": 678,
+      "indexed": true,
+      "file": "usace_wire_rope_page_074.txt"
+    },
+    {
+      "pdf_page": 75,
+      "characters": 3028,
+      "indexed": true,
+      "file": "usace_wire_rope_page_075.txt"
+    },
+    {
+      "pdf_page": 76,
+      "characters": 1837,
+      "indexed": true,
+      "file": "usace_wire_rope_page_076.txt"
+    },
+    {
+      "pdf_page": 77,
+      "characters": 3017,
+      "indexed": true,
+      "file": "usace_wire_rope_page_077.txt"
+    },
+    {
+      "pdf_page": 78,
+      "characters": 2765,
+      "indexed": true,
+      "file": "usace_wire_rope_page_078.txt"
+    },
+    {
+      "pdf_page": 79,
+      "characters": 3633,
+      "indexed": true,
+      "file": "usace_wire_rope_page_079.txt"
+    },
+    {
+      "pdf_page": 80,
+      "characters": 3407,
+      "indexed": true,
+      "file": "usace_wire_rope_page_080.txt"
+    },
+    {
+      "pdf_page": 81,
+      "characters": 2872,
+      "indexed": true,
+      "file": "usace_wire_rope_page_081.txt"
+    },
+    {
+      "pdf_page": 82,
+      "characters": 1386,
+      "indexed": true,
+      "file": "usace_wire_rope_page_082.txt"
+    },
+    {
+      "pdf_page": 83,
+      "characters": 2141,
+      "indexed": true,
+      "file": "usace_wire_rope_page_083.txt"
+    },
+    {
+      "pdf_page": 84,
+      "characters": 1697,
+      "indexed": true,
+      "file": "usace_wire_rope_page_084.txt"
+    },
+    {
+      "pdf_page": 85,
+      "characters": 2300,
+      "indexed": true,
+      "file": "usace_wire_rope_page_085.txt"
+    },
+    {
+      "pdf_page": 86,
+      "characters": 1303,
+      "indexed": true,
+      "file": "usace_wire_rope_page_086.txt"
+    },
+    {
+      "pdf_page": 87,
+      "characters": 1492,
+      "indexed": true,
+      "file": "usace_wire_rope_page_087.txt"
+    },
+    {
+      "pdf_page": 88,
+      "characters": 1884,
+      "indexed": true,
+      "file": "usace_wire_rope_page_088.txt"
+    },
+    {
+      "pdf_page": 89,
+      "characters": 687,
+      "indexed": true,
+      "file": "usace_wire_rope_page_089.txt"
+    },
+    {
+      "pdf_page": 90,
+      "characters": 1833,
+      "indexed": true,
+      "file": "usace_wire_rope_page_090.txt"
+    },
+    {
+      "pdf_page": 91,
+      "characters": 848,
+      "indexed": true,
+      "file": "usace_wire_rope_page_091.txt"
+    },
+    {
+      "pdf_page": 92,
+      "characters": 68,
+      "indexed": false
+    },
+    {
+      "pdf_page": 93,
+      "characters": 1148,
+      "indexed": true,
+      "file": "usace_wire_rope_page_093.txt"
+    },
+    {
+      "pdf_page": 94,
+      "characters": 1414,
+      "indexed": true,
+      "file": "usace_wire_rope_page_094.txt"
+    },
+    {
+      "pdf_page": 95,
+      "characters": 3099,
+      "indexed": true,
+      "file": "usace_wire_rope_page_095.txt"
+    },
+    {
+      "pdf_page": 96,
+      "characters": 110,
+      "indexed": false
+    },
+    {
+      "pdf_page": 97,
+      "characters": 1908,
+      "indexed": true,
+      "file": "usace_wire_rope_page_097.txt"
+    },
+    {
+      "pdf_page": 98,
+      "characters": 1248,
+      "indexed": true,
+      "file": "usace_wire_rope_page_098.txt"
+    },
+    {
+      "pdf_page": 99,
+      "characters": 2001,
+      "indexed": true,
+      "file": "usace_wire_rope_page_099.txt"
+    },
+    {
+      "pdf_page": 100,
+      "characters": 2621,
+      "indexed": true,
+      "file": "usace_wire_rope_page_100.txt"
+    },
+    {
+      "pdf_page": 101,
+      "characters": 1666,
+      "indexed": true,
+      "file": "usace_wire_rope_page_101.txt"
+    },
+    {
+      "pdf_page": 102,
+      "characters": 3036,
+      "indexed": true,
+      "file": "usace_wire_rope_page_102.txt"
+    },
+    {
+      "pdf_page": 103,
+      "characters": 1940,
+      "indexed": true,
+      "file": "usace_wire_rope_page_103.txt"
+    },
+    {
+      "pdf_page": 104,
+      "characters": 3174,
+      "indexed": true,
+      "file": "usace_wire_rope_page_104.txt"
+    },
+    {
+      "pdf_page": 105,
+      "characters": 3136,
+      "indexed": true,
+      "file": "usace_wire_rope_page_105.txt"
+    },
+    {
+      "pdf_page": 106,
+      "characters": 392,
+      "indexed": true,
+      "file": "usace_wire_rope_page_106.txt"
+    },
+    {
+      "pdf_page": 107,
+      "characters": 2490,
+      "indexed": true,
+      "file": "usace_wire_rope_page_107.txt"
+    },
+    {
+      "pdf_page": 108,
+      "characters": 67,
+      "indexed": false
+    },
+    {
+      "pdf_page": 109,
+      "characters": 2257,
+      "indexed": true,
+      "file": "usace_wire_rope_page_109.txt"
+    },
+    {
+      "pdf_page": 110,
+      "characters": 3392,
+      "indexed": true,
+      "file": "usace_wire_rope_page_110.txt"
+    },
+    {
+      "pdf_page": 111,
+      "characters": 2308,
+      "indexed": true,
+      "file": "usace_wire_rope_page_111.txt"
+    },
+    {
+      "pdf_page": 112,
+      "characters": 107,
+      "indexed": false
+    },
+    {
+      "pdf_page": 113,
+      "characters": 420,
+      "indexed": true,
+      "file": "usace_wire_rope_page_113.txt"
+    },
+    {
+      "pdf_page": 114,
+      "characters": 991,
+      "indexed": true,
+      "file": "usace_wire_rope_page_114.txt"
+    },
+    {
+      "pdf_page": 115,
+      "characters": 2267,
+      "indexed": true,
+      "file": "usace_wire_rope_page_115.txt"
+    },
+    {
+      "pdf_page": 116,
+      "characters": 134,
+      "indexed": false
+    },
+    {
+      "pdf_page": 117,
+      "characters": 1196,
+      "indexed": true,
+      "file": "usace_wire_rope_page_117.txt"
+    },
+    {
+      "pdf_page": 118,
+      "characters": 121,
+      "indexed": false
+    },
+    {
+      "pdf_page": 119,
+      "characters": 2831,
+      "indexed": true,
+      "file": "usace_wire_rope_page_119.txt"
+    },
+    {
+      "pdf_page": 120,
+      "characters": 68,
+      "indexed": false
+    },
+    {
+      "pdf_page": 121,
+      "characters": 3585,
+      "indexed": true,
+      "file": "usace_wire_rope_page_121.txt"
+    },
+    {
+      "pdf_page": 122,
+      "characters": 3663,
+      "indexed": true,
+      "file": "usace_wire_rope_page_122.txt"
+    },
+    {
+      "pdf_page": 123,
+      "characters": 2032,
+      "indexed": true,
+      "file": "usace_wire_rope_page_123.txt"
+    },
+    {
+      "pdf_page": 124,
+      "characters": 1385,
+      "indexed": true,
+      "file": "usace_wire_rope_page_124.txt"
+    },
+    {
+      "pdf_page": 125,
+      "characters": 2573,
+      "indexed": true,
+      "file": "usace_wire_rope_page_125.txt"
+    },
+    {
+      "pdf_page": 126,
+      "characters": 3806,
+      "indexed": true,
+      "file": "usace_wire_rope_page_126.txt"
+    },
+    {
+      "pdf_page": 127,
+      "characters": 1611,
+      "indexed": true,
+      "file": "usace_wire_rope_page_127.txt"
+    },
+    {
+      "pdf_page": 128,
+      "characters": 882,
+      "indexed": true,
+      "file": "usace_wire_rope_page_128.txt"
+    },
+    {
+      "pdf_page": 129,
+      "characters": 2251,
+      "indexed": true,
+      "file": "usace_wire_rope_page_129.txt"
+    },
+    {
+      "pdf_page": 130,
+      "characters": 2209,
+      "indexed": true,
+      "file": "usace_wire_rope_page_130.txt"
+    },
+    {
+      "pdf_page": 131,
+      "characters": 3255,
+      "indexed": true,
+      "file": "usace_wire_rope_page_131.txt"
+    },
+    {
+      "pdf_page": 132,
+      "characters": 2980,
+      "indexed": true,
+      "file": "usace_wire_rope_page_132.txt"
+    },
+    {
+      "pdf_page": 133,
+      "characters": 518,
+      "indexed": true,
+      "file": "usace_wire_rope_page_133.txt"
+    },
+    {
+      "pdf_page": 134,
+      "characters": 812,
+      "indexed": true,
+      "file": "usace_wire_rope_page_134.txt"
+    },
+    {
+      "pdf_page": 135,
+      "characters": 2321,
+      "indexed": true,
+      "file": "usace_wire_rope_page_135.txt"
+    },
+    {
+      "pdf_page": 136,
+      "characters": 2788,
+      "indexed": true,
+      "file": "usace_wire_rope_page_136.txt"
+    },
+    {
+      "pdf_page": 137,
+      "characters": 2035,
+      "indexed": true,
+      "file": "usace_wire_rope_page_137.txt"
+    },
+    {
+      "pdf_page": 138,
+      "characters": 2566,
+      "indexed": true,
+      "file": "usace_wire_rope_page_138.txt"
+    },
+    {
+      "pdf_page": 139,
+      "characters": 1913,
+      "indexed": true,
+      "file": "usace_wire_rope_page_139.txt"
+    },
+    {
+      "pdf_page": 140,
+      "characters": 2340,
+      "indexed": true,
+      "file": "usace_wire_rope_page_140.txt"
+    },
+    {
+      "pdf_page": 141,
+      "characters": 1850,
+      "indexed": true,
+      "file": "usace_wire_rope_page_141.txt"
+    },
+    {
+      "pdf_page": 142,
+      "characters": 2290,
+      "indexed": true,
+      "file": "usace_wire_rope_page_142.txt"
+    },
+    {
+      "pdf_page": 143,
+      "characters": 785,
+      "indexed": true,
+      "file": "usace_wire_rope_page_143.txt"
+    },
+    {
+      "pdf_page": 144,
+      "characters": 67,
+      "indexed": false
+    },
+    {
+      "pdf_page": 145,
+      "characters": 3362,
+      "indexed": true,
+      "file": "usace_wire_rope_page_145.txt"
+    },
+    {
+      "pdf_page": 146,
+      "characters": 1425,
+      "indexed": true,
+      "file": "usace_wire_rope_page_146.txt"
+    },
+    {
+      "pdf_page": 147,
+      "characters": 486,
+      "indexed": true,
+      "file": "usace_wire_rope_page_147.txt"
+    },
+    {
+      "pdf_page": 148,
+      "characters": 2162,
+      "indexed": true,
+      "file": "usace_wire_rope_page_148.txt"
+    },
+    {
+      "pdf_page": 149,
+      "characters": 3433,
+      "indexed": true,
+      "file": "usace_wire_rope_page_149.txt"
+    },
+    {
+      "pdf_page": 150,
+      "characters": 3167,
+      "indexed": true,
+      "file": "usace_wire_rope_page_150.txt"
+    },
+    {
+      "pdf_page": 151,
+      "characters": 169,
+      "indexed": false
+    },
+    {
+      "pdf_page": 152,
+      "characters": 1675,
+      "indexed": true,
+      "file": "usace_wire_rope_page_152.txt"
+    },
+    {
+      "pdf_page": 153,
+      "characters": 2142,
+      "indexed": true,
+      "file": "usace_wire_rope_page_153.txt"
+    },
+    {
+      "pdf_page": 154,
+      "characters": 939,
+      "indexed": true,
+      "file": "usace_wire_rope_page_154.txt"
+    },
+    {
+      "pdf_page": 155,
+      "characters": 1763,
+      "indexed": true,
+      "file": "usace_wire_rope_page_155.txt"
+    },
+    {
+      "pdf_page": 156,
+      "characters": 2979,
+      "indexed": true,
+      "file": "usace_wire_rope_page_156.txt"
+    },
+    {
+      "pdf_page": 157,
+      "characters": 1066,
+      "indexed": true,
+      "file": "usace_wire_rope_page_157.txt"
+    },
+    {
+      "pdf_page": 158,
+      "characters": 1943,
+      "indexed": true,
+      "file": "usace_wire_rope_page_158.txt"
+    },
+    {
+      "pdf_page": 159,
+      "characters": 3420,
+      "indexed": true,
+      "file": "usace_wire_rope_page_159.txt"
+    },
+    {
+      "pdf_page": 160,
+      "characters": 3395,
+      "indexed": true,
+      "file": "usace_wire_rope_page_160.txt"
+    },
+    {
+      "pdf_page": 161,
+      "characters": 836,
+      "indexed": true,
+      "file": "usace_wire_rope_page_161.txt"
+    },
+    {
+      "pdf_page": 162,
+      "characters": 1133,
+      "indexed": true,
+      "file": "usace_wire_rope_page_162.txt"
+    },
+    {
+      "pdf_page": 163,
+      "characters": 3566,
+      "indexed": true,
+      "file": "usace_wire_rope_page_163.txt"
+    },
+    {
+      "pdf_page": 164,
+      "characters": 732,
+      "indexed": true,
+      "file": "usace_wire_rope_page_164.txt"
+    },
+    {
+      "pdf_page": 165,
+      "characters": 1703,
+      "indexed": true,
+      "file": "usace_wire_rope_page_165.txt"
+    },
+    {
+      "pdf_page": 166,
+      "characters": 521,
+      "indexed": true,
+      "file": "usace_wire_rope_page_166.txt"
+    },
+    {
+      "pdf_page": 167,
+      "characters": 620,
+      "indexed": true,
+      "file": "usace_wire_rope_page_167.txt"
+    },
+    {
+      "pdf_page": 168,
+      "characters": 1481,
+      "indexed": true,
+      "file": "usace_wire_rope_page_168.txt"
+    },
+    {
+      "pdf_page": 169,
+      "characters": 2961,
+      "indexed": true,
+      "file": "usace_wire_rope_page_169.txt"
+    },
+    {
+      "pdf_page": 170,
+      "characters": 1177,
+      "indexed": true,
+      "file": "usace_wire_rope_page_170.txt"
+    },
+    {
+      "pdf_page": 171,
+      "characters": 2369,
+      "indexed": true,
+      "file": "usace_wire_rope_page_171.txt"
+    },
+    {
+      "pdf_page": 172,
+      "characters": 2434,
+      "indexed": true,
+      "file": "usace_wire_rope_page_172.txt"
+    },
+    {
+      "pdf_page": 173,
+      "characters": 2273,
+      "indexed": true,
+      "file": "usace_wire_rope_page_173.txt"
+    },
+    {
+      "pdf_page": 174,
+      "characters": 1246,
+      "indexed": true,
+      "file": "usace_wire_rope_page_174.txt"
+    },
+    {
+      "pdf_page": 175,
+      "characters": 3386,
+      "indexed": true,
+      "file": "usace_wire_rope_page_175.txt"
+    },
+    {
+      "pdf_page": 176,
+      "characters": 2917,
+      "indexed": true,
+      "file": "usace_wire_rope_page_176.txt"
+    },
+    {
+      "pdf_page": 177,
+      "characters": 1386,
+      "indexed": true,
+      "file": "usace_wire_rope_page_177.txt"
+    },
+    {
+      "pdf_page": 178,
+      "characters": 1413,
+      "indexed": true,
+      "file": "usace_wire_rope_page_178.txt"
+    },
+    {
+      "pdf_page": 179,
+      "characters": 1810,
+      "indexed": true,
+      "file": "usace_wire_rope_page_179.txt"
+    },
+    {
+      "pdf_page": 180,
+      "characters": 3326,
+      "indexed": true,
+      "file": "usace_wire_rope_page_180.txt"
+    },
+    {
+      "pdf_page": 181,
+      "characters": 1359,
+      "indexed": true,
+      "file": "usace_wire_rope_page_181.txt"
+    },
+    {
+      "pdf_page": 182,
+      "characters": 68,
+      "indexed": false
+    },
+    {
+      "pdf_page": 183,
+      "characters": 79,
+      "indexed": false
+    },
+    {
+      "pdf_page": 184,
+      "characters": 293,
+      "indexed": true,
+      "file": "usace_wire_rope_page_184.txt"
+    },
+    {
+      "pdf_page": 185,
+      "characters": 3134,
+      "indexed": true,
+      "file": "usace_wire_rope_page_185.txt"
+    },
+    {
+      "pdf_page": 186,
+      "characters": 2969,
+      "indexed": true,
+      "file": "usace_wire_rope_page_186.txt"
+    },
+    {
+      "pdf_page": 187,
+      "characters": 1300,
+      "indexed": true,
+      "file": "usace_wire_rope_page_187.txt"
+    },
+    {
+      "pdf_page": 188,
+      "characters": 1588,
+      "indexed": true,
+      "file": "usace_wire_rope_page_188.txt"
+    },
+    {
+      "pdf_page": 189,
+      "characters": 1435,
+      "indexed": true,
+      "file": "usace_wire_rope_page_189.txt"
+    },
+    {
+      "pdf_page": 190,
+      "characters": 2362,
+      "indexed": true,
+      "file": "usace_wire_rope_page_190.txt"
+    },
+    {
+      "pdf_page": 191,
+      "characters": 1566,
+      "indexed": true,
+      "file": "usace_wire_rope_page_191.txt"
+    },
+    {
+      "pdf_page": 192,
+      "characters": 1988,
+      "indexed": true,
+      "file": "usace_wire_rope_page_192.txt"
+    },
+    {
+      "pdf_page": 193,
+      "characters": 2458,
+      "indexed": true,
+      "file": "usace_wire_rope_page_193.txt"
+    },
+    {
+      "pdf_page": 194,
+      "characters": 1815,
+      "indexed": true,
+      "file": "usace_wire_rope_page_194.txt"
+    },
+    {
+      "pdf_page": 195,
+      "characters": 2248,
+      "indexed": true,
+      "file": "usace_wire_rope_page_195.txt"
+    },
+    {
+      "pdf_page": 196,
+      "characters": 1610,
+      "indexed": true,
+      "file": "usace_wire_rope_page_196.txt"
+    },
+    {
+      "pdf_page": 197,
+      "characters": 2480,
+      "indexed": true,
+      "file": "usace_wire_rope_page_197.txt"
+    },
+    {
+      "pdf_page": 198,
+      "characters": 1739,
+      "indexed": true,
+      "file": "usace_wire_rope_page_198.txt"
+    },
+    {
+      "pdf_page": 199,
+      "characters": 2794,
+      "indexed": true,
+      "file": "usace_wire_rope_page_199.txt"
+    },
+    {
+      "pdf_page": 200,
+      "characters": 1768,
+      "indexed": true,
+      "file": "usace_wire_rope_page_200.txt"
+    },
+    {
+      "pdf_page": 201,
+      "characters": 2334,
+      "indexed": true,
+      "file": "usace_wire_rope_page_201.txt"
+    },
+    {
+      "pdf_page": 202,
+      "characters": 2333,
+      "indexed": true,
+      "file": "usace_wire_rope_page_202.txt"
+    },
+    {
+      "pdf_page": 203,
+      "characters": 1617,
+      "indexed": true,
+      "file": "usace_wire_rope_page_203.txt"
+    },
+    {
+      "pdf_page": 204,
+      "characters": 71,
+      "indexed": false
+    },
+    {
+      "pdf_page": 205,
+      "characters": 71,
+      "indexed": false
+    },
+    {
+      "pdf_page": 206,
+      "characters": 71,
+      "indexed": false
+    },
+    {
+      "pdf_page": 207,
+      "characters": 71,
+      "indexed": false
+    },
+    {
+      "pdf_page": 208,
+      "characters": 1777,
+      "indexed": true,
+      "file": "usace_wire_rope_page_208.txt"
+    },
+    {
+      "pdf_page": 209,
+      "characters": 1480,
+      "indexed": true,
+      "file": "usace_wire_rope_page_209.txt"
+    },
+    {
+      "pdf_page": 210,
+      "characters": 70,
+      "indexed": false
+    },
+    {
+      "pdf_page": 211,
+      "characters": 858,
+      "indexed": true,
+      "file": "usace_wire_rope_page_211.txt"
+    },
+    {
+      "pdf_page": 212,
+      "characters": 818,
+      "indexed": true,
+      "file": "usace_wire_rope_page_212.txt"
+    },
+    {
+      "pdf_page": 213,
+      "characters": 738,
+      "indexed": true,
+      "file": "usace_wire_rope_page_213.txt"
+    },
+    {
+      "pdf_page": 214,
+      "characters": 1173,
+      "indexed": true,
+      "file": "usace_wire_rope_page_214.txt"
+    },
+    {
+      "pdf_page": 215,
+      "characters": 396,
+      "indexed": true,
+      "file": "usace_wire_rope_page_215.txt"
+    },
+    {
+      "pdf_page": 216,
+      "characters": 114,
+      "indexed": false
+    },
+    {
+      "pdf_page": 217,
+      "characters": 30,
+      "indexed": false
+    },
+    {
+      "pdf_page": 218,
+      "characters": 30,
+      "indexed": false
+    },
+    {
+      "pdf_page": 219,
+      "characters": 30,
+      "indexed": false
+    },
+    {
+      "pdf_page": 220,
+      "characters": 68,
+      "indexed": false
+    },
+    {
+      "pdf_page": 221,
+      "characters": 1552,
+      "indexed": true,
+      "file": "usace_wire_rope_page_221.txt"
+    },
+    {
+      "pdf_page": 222,
+      "characters": 2157,
+      "indexed": true,
+      "file": "usace_wire_rope_page_222.txt"
+    },
+    {
+      "pdf_page": 223,
+      "characters": 1790,
+      "indexed": true,
+      "file": "usace_wire_rope_page_223.txt"
+    },
+    {
+      "pdf_page": 224,
+      "characters": 1650,
+      "indexed": true,
+      "file": "usace_wire_rope_page_224.txt"
+    },
+    {
+      "pdf_page": 225,
+      "characters": 1664,
+      "indexed": true,
+      "file": "usace_wire_rope_page_225.txt"
+    },
+    {
+      "pdf_page": 226,
+      "characters": 1780,
+      "indexed": true,
+      "file": "usace_wire_rope_page_226.txt"
+    },
+    {
+      "pdf_page": 227,
+      "characters": 1927,
+      "indexed": true,
+      "file": "usace_wire_rope_page_227.txt"
+    },
+    {
+      "pdf_page": 228,
+      "characters": 1445,
+      "indexed": true,
+      "file": "usace_wire_rope_page_228.txt"
+    },
+    {
+      "pdf_page": 229,
+      "characters": 1266,
+      "indexed": true,
+      "file": "usace_wire_rope_page_229.txt"
+    },
+    {
+      "pdf_page": 230,
+      "characters": 2180,
+      "indexed": true,
+      "file": "usace_wire_rope_page_230.txt"
+    },
+    {
+      "pdf_page": 231,
+      "characters": 2055,
+      "indexed": true,
+      "file": "usace_wire_rope_page_231.txt"
+    },
+    {
+      "pdf_page": 232,
+      "characters": 1434,
+      "indexed": true,
+      "file": "usace_wire_rope_page_232.txt"
+    },
+    {
+      "pdf_page": 233,
+      "characters": 1808,
+      "indexed": true,
+      "file": "usace_wire_rope_page_233.txt"
+    },
+    {
+      "pdf_page": 234,
+      "characters": 1559,
+      "indexed": true,
+      "file": "usace_wire_rope_page_234.txt"
+    },
+    {
+      "pdf_page": 235,
+      "characters": 1535,
+      "indexed": true,
+      "file": "usace_wire_rope_page_235.txt"
+    },
+    {
+      "pdf_page": 236,
+      "characters": 1725,
+      "indexed": true,
+      "file": "usace_wire_rope_page_236.txt"
+    },
+    {
+      "pdf_page": 237,
+      "characters": 1244,
+      "indexed": true,
+      "file": "usace_wire_rope_page_237.txt"
+    },
+    {
+      "pdf_page": 238,
+      "characters": 668,
+      "indexed": true,
+      "file": "usace_wire_rope_page_238.txt"
+    }
+  ]
+}
